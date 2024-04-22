@@ -1,4 +1,5 @@
 #code to first detect objects in a video
+#used video https://www.youtube.com/watch?v=peSNdpGC14Q
 from imageai.Detection import ObjectDetection
 
 # Replace with your desired output path 
